@@ -16,6 +16,10 @@ A command-line based dice roll simulator built in Python. The project simulates 
 - Python 3
 - Standard Library (random module)
 
+## Demo
+https://github.com/himanihassija/dice-roll-simulator/blob/main/dice%20roll%201.JPG
+https://github.com/himanihassija/dice-roll-simulator/blob/main/dice%20roll%202.JPG
+
 ## Project Structure
 dice-roll-simulator-python/
 ├── dice_simulator.py
